@@ -1,8 +1,11 @@
+
+
+
 # Employee_Attrition
 
 
 
-Topic -: Predicting Employee Attrition And Helping HR’s  For Recruitment
+## Predicting Employee Attrition And Helping HR’s  For Recruitment
 
 
 Employee turnover (attrition) is a major cost to an organization, and predicting turnover is at the forefront of needs of Human Resources (HR) in many organizations.Organizations face huge costs resulting from employee turnover. 
@@ -12,7 +15,7 @@ Our Project concerns a big company that wants to understand why some of their be
 
 Let us point out some of the challenges faced by the hiring managers:
 
-Eligible Candidates: Finding and sorting the best candidates on the basis of their resumes.
+## Eligible Candidates: Finding and sorting the best candidates on the basis of their resumes.
 Demand and Supply ratio:  If a selected candidate drops off then again have to repeat the complete process and find a new replacement.
 Tenuous relationship of hiring manager and recruiters:Sometimes the exact job requirements are not clearly communicated to the hiring managers. According to a survey conducted by ICIMS, 80% of recruiters think they have very good understanding of their job position while 61% of hiring managers believe that recruiters have moderate levels of understanding. This imbalance between both the parties is quite strenuous and creates a barrier for a smooth workflow.
 
@@ -20,10 +23,10 @@ Tenuous relationship of hiring manager and recruiters:Sometimes the exact job re
 
 
 
-Data Source -: Kaggle Dataset.
+### Data Source -: Kaggle Dataset
 Link-:https://drive.google.com/open?id=1WXQ1f6uBJTIPCMxfj8Vv2UjHf4adrJ4A
 
-Fields(attributes/features) in the dataset are as follows-:
+### Fields(attributes/features) in the dataset are as follows-:
 
 Name
 Satisfaction Level
@@ -38,28 +41,31 @@ Department
 Salary
 Salary Level
 
-Our Project Work 
+### Our Project Work 
 
 
-Phase 1 : 
-Data Analysis
-Finding all possible hypothesis
-Data Exploration
-Data Cleaning if required
-Feature Engineering if required.
+#### Phase 1 : 
+##### Data Analysis
+##### Finding all possible hypothesis
+##### Data Exploration
+##### Data Cleaning if required
+##### Feature Engineering if required.
 
-Data Visualization - Using  Tableau Or PowerBi.
+##### Data Visualization - Using  Tableau Or PowerBi.
 
-Models Building- **Starting with basic models.
-Decision Tree
-Logistic Regression
-SVM
-Random Forest etc.
-Prediction And Calculating Accuracy , Precision , Recall And F1 Score to decide which model is best.
+##### Models Building- **Starting with basic models.
+###### Decision Tree
+###### Logistic Regression
+###### SVM
+###### Random Forest etc.
+##### Prediction And Calculating Accuracy , Precision , Recall And F1 Score to decide which model is best.
 
-Phase 2:
+#### Phase 2:
 
-Adding more complex features and using deep learning using TensorFlow  building a final model  and Developing a pickle file.
+##### Adding more complex features and using deep learning using TensorFlow  building a final model  and Developing a pickle file.
 Prediction And Calculating Accuracy , Precision , Recall And F1 Score.
 
-Final Story and Full Analysis of the Outcomes Using PowerBi .
+#### Final Story and Full Analysis of the Outcomes Using PowerBi .
+
+## Reasearch Paper : Early Prediction of Employee Attrition using Data Mining
+### IEEE Link -: https://ieeexplore.ieee.org/document/8692137 
