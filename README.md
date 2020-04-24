@@ -69,6 +69,6 @@ Prediction And Calculating Accuracy , Precision , Recall And F1 Score.
 
 ## Reasearch Paper : Early Prediction of Employee Attrition using Data Mining
 ### IEEE Link -: https://ieeexplore.ieee.org/document/8692137 
-### Research Gate -: https://www.researchgate.net/publication/332528099_Early_Prediction_of_Employee_Attrition_using_Data_Mining_Techniques
+#### Research Gate -: https://www.researchgate.net/publication/332528099_Early_Prediction_of_Employee_Attrition_using_Data_Mining_Techniques
 
 #### Youtube Video Link : https://youtu.be/sH5Hwwu_8kM
